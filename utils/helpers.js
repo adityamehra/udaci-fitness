@@ -2,9 +2,7 @@
 
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
-
 import { FontAwesome, MaterialIcons, MaterialCommunityIcons } from '@expo/vector-icons';
-
 import { white, black, red, pink , orange, purple, lightPurp, blue } from './colors';
 
 const styles = StyleSheet.create({

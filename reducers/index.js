@@ -1,4 +1,4 @@
-import { RECEIVE_ENTRIES, ADD_ENTRY } from '../actions'
+dimport { RECEIVE_ENTRIES, ADD_ENTRY } from '../actions'
 
 function entries(state = {}, action) {
 

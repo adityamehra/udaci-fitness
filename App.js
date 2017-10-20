@@ -1,4 +1,4 @@
-import React from 'react';
+rimport React from 'react';
 import { StyleSheet, Text, View, Platform, StatusBar } from 'react-native';
 import AddEntry from './components/AddEntry'
 import History from './components/History'
